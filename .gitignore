@@ -1,0 +1,15 @@
+# Unity
+[Dd]ebug/
+[Dd]ebugPublic/
+[Ll]ogs/
+Temp/
+Obj/
+UnityGenerated/
+.vs/
+.vscode/
+.idea/
+.userprefs
+*.csproj
+*.sln
+*.user
+*.unityproj
